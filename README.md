@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingsongliujing&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingsongliujing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### 我的日志
+2022.10.10：给PaddleOCR提的Pull request被官方合并：![https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_ch/dataset/datasets.md]
