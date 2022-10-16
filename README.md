@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 
 ### 我的日志
-##### 2022.10.10：给PaddleOCR提的Pull request被官方合并：[https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_ch/dataset/datasets.md](https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_ch/dataset/datasets.md)
+##### 2022.10.10：PaddleOCR提的Pull request被官方合并：[https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_ch/dataset/datasets.md](https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_ch/dataset/datasets.md)
+
+##### 2022.10.08:Paddle Pull request被合并:https://github.com/PaddlePaddle/Paddle/pull/47005
